@@ -1,4 +1,4 @@
-# Blind-Deconvolution-Python
+# BlindDeconvolutionPython
 ## Introduction
 Image deconvolution is the act of uncovering the ground truth image through removing the various Point Spread Function (PSF) that are applied to each image. These techniques have particular relevance in fields such as signal processing, astronomy, microscopy, and even on our phones when we take pictures.
 
