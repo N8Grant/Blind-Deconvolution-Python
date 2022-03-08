@@ -1,4 +1,4 @@
 Pillow>=6.0.0
 numpy>=1.18.1
 matplotlib>=2.2.3
-matlab-wrapper==1
+matlab>=1
